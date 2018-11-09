@@ -6,9 +6,13 @@ Hands on exercise
 ### Create
 
 ~~git clone https://github.com/efsavage/hello-world-war~~
+
 ~~pushd  ./hello-world-war/src/main/webapp~~
+
 ~~sed -i 's/Hello World!/Welcome to Electric Cloud/g' index.jsp~~
+
 ~~jar -cvf ../../../../hello-ec.war *~~
+
 ~~popd~~
 
 ```
